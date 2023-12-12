@@ -1,0 +1,82 @@
+[
+  {
+    "country_id": "111",
+    "country_name": "Turkey",
+    "league_id": "322",
+    "league_name": "Süper Lig",
+    "league_season": "2023/2024",
+    "league_logo": "/badges/logo_leagues/322_super-lig.png"
+  },
+  {
+    "country_id": "111",
+    "country_name": "Turkey",
+    "league_id": "319",
+    "league_name": "1. Lig",
+    "league_season": "2023/2024",
+    "league_logo": "/badges/logo_leagues/319_1-lig.png"
+  },
+  {
+    "country_id": "111",
+    "country_name": "Turkey",
+    "league_id": "320",
+    "league_name": "Cup",
+    "league_season": "2023/2024",
+    "league_logo": "/badges/logo_leagues/320_cup.png"
+  },
+  {
+    "country_id": "111",
+    "country_name": "Turkey",
+    "league_id": "323",
+    "league_name": "Super Cup",
+    "league_season": "2023/2024",
+    "league_logo": "/badges/logo_leagues/323_super-cup.png"
+  },
+  {
+    "country_id": "4",
+    "country_name": "Germany",
+    "league_id": "171",
+    "league_name": "2. Bundesliga",
+    "league_season": "2023/2024",
+    "league_logo": "/badges/logo_leagues/171_2-bundesliga.png"
+  },
+  {
+    "country_id": "4",
+    "country_name": "Germany",
+    "league_id": "175",
+    "league_name": "Bundesliga",
+    "league_season": "2023/2024",
+    "league_logo": "/badges/logo_leagues/175_bundesliga.png"
+  },
+  {
+    "country_id": "4",
+    "country_name": "Germany",
+    "league_id": "172",
+    "league_name": "DFB Pokal",
+    "league_season": "2023/2024",
+    "league_logo": "/badges/logo_leagues/172_dfb-pokal.png"
+  },
+  {
+    "country_id": "4",
+    "country_name": "Germany",
+    "league_id": "379",
+    "league_name": "Super Cup",
+    "league_season": "2023/2024",
+    "league_logo": "/badges/logo_leagues/379_super-cup.png"
+  },
+  {
+    "country_id": "44",
+    "country_name": "England",
+    "league_id": "153",
+    "league_name": "Championship",
+    "league_season": "2023/2024",
+    "league_logo": "/badges/logo_leagues/153_championship.png"
+  },
+  {
+    "country_id": "44",
+    "country_name": "England",
+    "league_id": "152",
+    "league_name": "Premier League",
+    "league_season": "2023/2024",
+    "league_logo": "/badges/logo_leagues/152_premier-league.png"
+  }
+]

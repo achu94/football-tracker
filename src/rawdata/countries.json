@@ -1,0 +1,17 @@
+[
+  {
+    "country_id": "4",
+    "country_name": "Germany",
+    "country_logo": "/badges/logo_country/4_germany.png"
+  },
+  {
+    "country_id": "111",
+    "country_name": "Turkey",
+    "country_logo": "/badges/logo_country/111_turkey.png"
+  },
+  {
+    "country_id": "44",
+    "country_name": "England",
+    "country_logo": "https://apiv3.apifootball.com/badges/logo_country/44_england.png"
+  }
+]

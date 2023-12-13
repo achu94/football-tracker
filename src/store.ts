@@ -1,13 +1,9 @@
 import { create } from "zustand";
 
-interface State {
-  count: number;
-  increment: () => void;
-}
+import { createCountrySlice, CountrySlice } from "./stores/countryStore";
 
-const useStore = create<State>( (set) => ({
-  count: 0,
-  increment: () => set((state) => ({ count: state.count + 1})),
-}))
+const useBoundStore = create<CountrySlice>()((...a) => ({
+  ...createCountrySlice(...a),
+}));
 
-export default useStore
+export default useBoundStore;

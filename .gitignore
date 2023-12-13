@@ -25,3 +25,4 @@ dist-ssr
 /ressources/*
 vite.svg
 /src/rawdata/apikey.json
+/public/rawdata/apikey.json

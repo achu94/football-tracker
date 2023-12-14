@@ -1,14 +1,11 @@
-interface Country {
-  country_id: string;
-  country_name: string;
-  country_logo: string;
-}
+import { CountryProps as Country } from "../stores/countryStore";
+import { LeagueProps as League } from "../stores/leaguesStore";
 
 export async function getCountriesAsObj(): Promise<Country[]> {
   try {
     const response = await fetch("/rawdata/countries.json");
     const jsonData = await response.json();
-    
+
     // Assuming that the JSON file contains an array of country objects
     return jsonData as Country[];
   } catch (error) {

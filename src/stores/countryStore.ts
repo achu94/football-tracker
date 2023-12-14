@@ -2,7 +2,7 @@ import { StateCreator } from "zustand";
 
 import { getCountriesAsObj } from "../utils/rawData";
 
-interface CountryProps {
+export interface CountryProps {
   country_id: string;
   country_name: string;
   country_logo: string;

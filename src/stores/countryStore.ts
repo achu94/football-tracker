@@ -1,6 +1,5 @@
 import { StateCreator } from "zustand";
 
-// Assuming you have a function to fetch countries
 import { getCountriesAsObj } from "../utils/rawData";
 
 interface CountryProps {
@@ -11,7 +10,7 @@ interface CountryProps {
 
 export interface CountrySlice {
   countries: CountryProps[];
-  initCountries: () => Promise<void>; // Assuming you want to use async initialization
+  initCountries: () => Promise<void>;
 }
 
 export const createCountrySlice: StateCreator<CountrySlice> = (set) => ({

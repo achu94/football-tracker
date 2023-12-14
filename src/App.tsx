@@ -29,8 +29,8 @@ function App() {
 
   return (
     <Layout>
-      {
-        <List divided relaxed>
+      {/* Init default store data. */}
+      <InitDefaultStoreData />
           {getCountryElements()}
         </List>
       }

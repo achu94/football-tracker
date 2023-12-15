@@ -3,6 +3,7 @@ import "semantic-ui-css/semantic.min.css";
 import InitDefaultStoreData from "./componets/utils/InitDefaultStoreData";
 
 import Countries from "./sections/Countries";
+import Leagues from "./sections/Leagues";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <InitDefaultStoreData />
 
       <Countries />
+      <Leagues />
     </Layout>
   );
 }

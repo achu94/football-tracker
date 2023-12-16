@@ -1,0 +1,367 @@
+[
+  {
+    "match_id": "220867",
+    "country_id": "4",
+    "country_name": "Germany",
+    "league_id": "175",
+    "league_name": "Bundesliga",
+    "match_date": "2023-12-16",
+    "match_status": "",
+    "match_time": "18:30",
+    "match_hometeam_id": "101",
+    "match_hometeam_name": "RB Leipzig",
+    "match_hometeam_score": "",
+    "match_awayteam_name": "Hoffenheim",
+    "match_awayteam_id": "170",
+    "match_awayteam_score": "",
+    "match_hometeam_halftime_score": "",
+    "match_awayteam_halftime_score": "",
+    "match_hometeam_extra_score": "",
+    "match_awayteam_extra_score": "",
+    "match_hometeam_penalty_score": "",
+    "match_awayteam_penalty_score": "",
+    "match_hometeam_ft_score": "",
+    "match_awayteam_ft_score": "",
+    "match_hometeam_system": "",
+    "match_awayteam_system": "",
+    "match_live": "0",
+    "match_round": "15",
+    "match_stadium": "Red Bull Arena, Leipzig",
+    "match_referee": "Robert Schroder, Germany",
+    "team_home_badge": "https://apiv3.apifootball.com/badges/101_rb-leipzig.jpg",
+    "team_away_badge": "https://apiv3.apifootball.com/badges/170_hoffenheim.jpg",
+    "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/175_bundesliga.png",
+    "country_logo": "https://apiv3.apifootball.com/badges/logo_country/4_germany.png",
+    "league_year": "2023/2024",
+    "fk_stage_key": "304",
+    "stage_name": "Current",
+    "goalscorer": [],
+    "cards": [],
+    "substitutions": {
+      "home": [],
+      "away": []
+    },
+    "lineup": {
+      "home": {
+        "starting_lineups": [],
+        "substitutes": [],
+        "coach": [
+          {
+            "lineup_player": "B. Friesenbichler",
+            "lineup_number": "",
+            "lineup_position": "",
+            "player_key": "1627260257"
+          }
+        ],
+        "missing_players": []
+      },
+      "away": {
+        "starting_lineups": [],
+        "substitutes": [],
+        "coach": [
+          {
+            "lineup_player": "D. Canadi",
+            "lineup_number": "",
+            "lineup_position": "",
+            "player_key": "53193673"
+          }
+        ],
+        "missing_players": []
+      }
+    },
+    "statistics": [],
+    "statistics_1half": []
+  },
+  {
+    "match_id": "220870",
+    "country_id": "4",
+    "country_name": "Germany",
+    "league_id": "175",
+    "league_name": "Bundesliga",
+    "match_date": "2023-12-16",
+    "match_status": "",
+    "match_time": "15:30",
+    "match_hometeam_id": "3939",
+    "match_hometeam_name": "Mainz",
+    "match_hometeam_score": "",
+    "match_awayteam_name": "Heidenheim",
+    "match_awayteam_id": "3917",
+    "match_awayteam_score": "",
+    "match_hometeam_halftime_score": "",
+    "match_awayteam_halftime_score": "",
+    "match_hometeam_extra_score": "",
+    "match_awayteam_extra_score": "",
+    "match_hometeam_penalty_score": "",
+    "match_awayteam_penalty_score": "",
+    "match_hometeam_ft_score": "",
+    "match_awayteam_ft_score": "",
+    "match_hometeam_system": "",
+    "match_awayteam_system": "",
+    "match_live": "0",
+    "match_round": "15",
+    "match_stadium": "MEWA Arena, Mainz",
+    "match_referee": "Bastian Dankert, Germany",
+    "team_home_badge": "https://apiv3.apifootball.com/badges/3939_mainz.jpg",
+    "team_away_badge": "https://apiv3.apifootball.com/badges/3917_heidenheim.jpg",
+    "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/175_bundesliga.png",
+    "country_logo": "https://apiv3.apifootball.com/badges/logo_country/4_germany.png",
+    "league_year": "2023/2024",
+    "fk_stage_key": "304",
+    "stage_name": "Current",
+    "goalscorer": [],
+    "cards": [],
+    "substitutions": {
+      "home": [],
+      "away": []
+    },
+    "lineup": {
+      "home": {
+        "starting_lineups": [],
+        "substitutes": [],
+        "coach": [
+          {
+            "lineup_player": "K. Garger",
+            "lineup_number": "",
+            "lineup_position": "",
+            "player_key": "2123617042"
+          }
+        ],
+        "missing_players": []
+      },
+      "away": {
+        "starting_lineups": [],
+        "substitutes": [],
+        "coach": [
+          {
+            "lineup_player": "K. Russ",
+            "lineup_number": "",
+            "lineup_position": "",
+            "player_key": "2896897712"
+          }
+        ],
+        "missing_players": []
+      }
+    },
+    "statistics": [],
+    "statistics_1half": []
+  },
+  {
+    "match_id": "220872",
+    "country_id": "4",
+    "country_name": "Germany",
+    "league_id": "175",
+    "league_name": "Bundesliga",
+    "match_date": "2023-12-16",
+    "match_status": "",
+    "match_time": "15:30",
+    "match_hometeam_id": "3911",
+    "match_hometeam_name": "Bochum",
+    "match_hometeam_score": "",
+    "match_awayteam_name": "Union Berlin",
+    "match_awayteam_id": "3936",
+    "match_awayteam_score": "",
+    "match_hometeam_halftime_score": "",
+    "match_awayteam_halftime_score": "",
+    "match_hometeam_extra_score": "",
+    "match_awayteam_extra_score": "",
+    "match_hometeam_penalty_score": "",
+    "match_awayteam_penalty_score": "",
+    "match_hometeam_ft_score": "",
+    "match_awayteam_ft_score": "",
+    "match_hometeam_system": "",
+    "match_awayteam_system": "",
+    "match_live": "0",
+    "match_round": "15",
+    "match_stadium": "Vonovia Ruhrstadion, Bochum",
+    "match_referee": "Sven Jablonski, Germany",
+    "team_home_badge": "https://apiv3.apifootball.com/badges/3911_bochum.jpg",
+    "team_away_badge": "https://apiv3.apifootball.com/badges/3936_union-berlin.jpg",
+    "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/175_bundesliga.png",
+    "country_logo": "https://apiv3.apifootball.com/badges/logo_country/4_germany.png",
+    "league_year": "2023/2024",
+    "fk_stage_key": "304",
+    "stage_name": "Current",
+    "goalscorer": [],
+    "cards": [],
+    "substitutions": {
+      "home": [],
+      "away": []
+    },
+    "lineup": {
+      "home": {
+        "starting_lineups": [],
+        "substitutes": [],
+        "coach": [
+          {
+            "lineup_player": "A. Tatar",
+            "lineup_number": "",
+            "lineup_position": "",
+            "player_key": "1578790261"
+          }
+        ],
+        "missing_players": []
+      },
+      "away": {
+        "starting_lineups": [],
+        "substitutes": [],
+        "coach": [
+          {
+            "lineup_player": "B. Friesenbichler",
+            "lineup_number": "",
+            "lineup_position": "",
+            "player_key": "1627260257"
+          }
+        ],
+        "missing_players": []
+      }
+    },
+    "statistics": [],
+    "statistics_1half": []
+  },
+  {
+    "match_id": "220873",
+    "country_id": "4",
+    "country_name": "Germany",
+    "league_id": "175",
+    "league_name": "Bundesliga",
+    "match_date": "2023-12-16",
+    "match_status": "",
+    "match_time": "15:30",
+    "match_hometeam_id": "3934",
+    "match_hometeam_name": "Augsburg",
+    "match_hometeam_score": "",
+    "match_awayteam_name": "Dortmund",
+    "match_awayteam_id": "92",
+    "match_awayteam_score": "",
+    "match_hometeam_halftime_score": "",
+    "match_awayteam_halftime_score": "",
+    "match_hometeam_extra_score": "",
+    "match_awayteam_extra_score": "",
+    "match_hometeam_penalty_score": "",
+    "match_awayteam_penalty_score": "",
+    "match_hometeam_ft_score": "",
+    "match_awayteam_ft_score": "",
+    "match_hometeam_system": "",
+    "match_awayteam_system": "",
+    "match_live": "0",
+    "match_round": "15",
+    "match_stadium": "WWK ARENA, Augsburg",
+    "match_referee": "Matthias Jollenbeck, Germany",
+    "team_home_badge": "https://apiv3.apifootball.com/badges/3934_augsburg.jpg",
+    "team_away_badge": "https://apiv3.apifootball.com/badges/92_borussia-dortmund.jpg",
+    "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/175_bundesliga.png",
+    "country_logo": "https://apiv3.apifootball.com/badges/logo_country/4_germany.png",
+    "league_year": "2023/2024",
+    "fk_stage_key": "304",
+    "stage_name": "Current",
+    "goalscorer": [],
+    "cards": [],
+    "substitutions": {
+      "home": [],
+      "away": []
+    },
+    "lineup": {
+      "home": {
+        "starting_lineups": [],
+        "substitutes": [],
+        "coach": [
+          {
+            "lineup_player": "K. Garger",
+            "lineup_number": "",
+            "lineup_position": "",
+            "player_key": "2123617042"
+          }
+        ],
+        "missing_players": []
+      },
+      "away": {
+        "starting_lineups": [],
+        "substitutes": [],
+        "coach": [
+          {
+            "lineup_player": "P. Hafner",
+            "lineup_number": "",
+            "lineup_position": "",
+            "player_key": "4146912489"
+          }
+        ],
+        "missing_players": []
+      }
+    },
+    "statistics": [],
+    "statistics_1half": []
+  },
+  {
+    "match_id": "220874",
+    "country_id": "4",
+    "country_name": "Germany",
+    "league_id": "175",
+    "league_name": "Bundesliga",
+    "match_date": "2023-12-16",
+    "match_status": "",
+    "match_time": "15:30",
+    "match_hometeam_id": "3922",
+    "match_hometeam_name": "Darmstadt",
+    "match_hometeam_score": "",
+    "match_awayteam_name": "Wolfsburg",
+    "match_awayteam_id": "196",
+    "match_awayteam_score": "",
+    "match_hometeam_halftime_score": "",
+    "match_awayteam_halftime_score": "",
+    "match_hometeam_extra_score": "",
+    "match_awayteam_extra_score": "",
+    "match_hometeam_penalty_score": "",
+    "match_awayteam_penalty_score": "",
+    "match_hometeam_ft_score": "",
+    "match_awayteam_ft_score": "",
+    "match_hometeam_system": "",
+    "match_awayteam_system": "",
+    "match_live": "0",
+    "match_round": "15",
+    "match_stadium": "Merck-Stadion am Böllenfalltor, Darmstadt",
+    "match_referee": "Robert Hartmann, Germany",
+    "team_home_badge": "https://apiv3.apifootball.com/badges/3922_darmstadt.jpg",
+    "team_away_badge": "https://apiv3.apifootball.com/badges/196_wolfsburg.jpg",
+    "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/175_bundesliga.png",
+    "country_logo": "https://apiv3.apifootball.com/badges/logo_country/4_germany.png",
+    "league_year": "2023/2024",
+    "fk_stage_key": "304",
+    "stage_name": "Current",
+    "goalscorer": [],
+    "cards": [],
+    "substitutions": {
+      "home": [],
+      "away": []
+    },
+    "lineup": {
+      "home": {
+        "starting_lineups": [],
+        "substitutes": [],
+        "coach": [
+          {
+            "lineup_player": "M. Scherb",
+            "lineup_number": "",
+            "lineup_position": "",
+            "player_key": "3043715535"
+          }
+        ],
+        "missing_players": []
+      },
+      "away": {
+        "starting_lineups": [],
+        "substitutes": [],
+        "coach": [
+          {
+            "lineup_player": "P. Zeidler",
+            "lineup_number": "",
+            "lineup_position": "",
+            "player_key": "916697479"
+          }
+        ],
+        "missing_players": []
+      }
+    },
+    "statistics": [],
+    "statistics_1half": []
+  }
+]

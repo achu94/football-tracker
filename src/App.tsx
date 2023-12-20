@@ -4,6 +4,7 @@ import InitDefaultStoreData from "./componets/hooks/InitDefaultStoreData";
 
 import Countries from "./sections/Countries";
 import Leagues from "./sections/Leagues";
+import Home from "./sections/Home";
 
 function App() {
 
@@ -11,9 +12,11 @@ function App() {
     <Layout>
       {/* Init default store data. */}
       <InitDefaultStoreData />
-
-      <Countries />
-      <Leagues />
+      
+      <Home />
+      
+      {/* <Countries /> */}
+      {/* <Leagues /> */}
     </Layout>
   );
 }

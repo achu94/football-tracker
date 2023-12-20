@@ -10,11 +10,11 @@ type LayoutProps = {
 
 const Layout: React.FC<LayoutProps> = ({ children }) => {
   return (
-    <Container textAlign="center">
+    <>
       <Navbar />
       {children}
       <Footer />
-    </Container>
+    </>
   );
 };
 
